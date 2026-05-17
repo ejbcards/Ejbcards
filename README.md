@@ -1,15 +1,5 @@
-## Hi there 👋
 
-<!--
-My name is Evan Boughey and I am an aspiring Business Informatics/ Ai Enginer professional
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Evan Boughey =====================================================================================================================================  M.S. in Business information focus on Data Analytics ----------------------------------------------------  Recent graduate from Northern Kentucky University looking to break into the world of business informatics.  * 🌍  I'm based in Kentucky * ✉️  You can contact me at [bougheye1@mymail.nku.edu](mailto:bougheye1@mymail.nku.edu) * 🚀  I'm currently working on [Golden Moose Trading](http://https://golden-moose.replit.app)
 
-When I have an idea I like to design and bring it to life
-
-My top technical skills consists of: Ai Prompt engineering, Python, Tableau, PowerBi, Microsoft Suite
-I have created an AI trade bot to help users confidently trade in the stock market
-Besides the trade bot, I have a few other prototypes I am working on 
-
-Fun facts:
-I am a dog dad
-Snowbaording is my top hobby 
-I do not find coffee to be that good
+<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" title="Sass" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a> </p> 
+ ### Socials  <p align="left"> <a href="https://www.github.com/ejbcards" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
