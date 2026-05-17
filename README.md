@@ -6,6 +6,7 @@ Recent graduate from Northern Kentucky University looking to break into the worl
 * 🌍  I'm based in Kentucky
 * ✉️  You can contact me at [bougheye1@mymail.nku.edu](mailto:bougheye1@mymail.nku.edu)
 * 🚀  I'm currently working on [Golden Moose Trading](http://https://golden-moose.replit.app)
+     * The Moose has seen a 72% return in it's first two weeks of testing with a win rate of 44%
 * 🧠  Focused on bridging the gap between operational business needs and technical execution.
 * 📍  Expertise in translating complex requirements into architected data flows and functional AI prototypes
 * 👥  I'm looking for Full time employment
